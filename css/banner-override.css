@@ -1,0 +1,29 @@
+#banner {
+    background: url("../images/banner-images/banner.png") no-repeat center top;
+    background-size:cover;
+}
+
+.storm {
+    width: 48.5%;
+}
+
+.anselmo {
+    min-width: 100%;
+}
+
+@media only screen and (max-width: 719px) {
+
+    #banner {
+        background: url("../images/banner-images/banner-m.png") no-repeat center top;
+        background-size:cover;
+    }
+
+    .storm {
+          width: 100%;
+    }
+
+    .anselmo {
+          width: 100%;
+    }
+
+}

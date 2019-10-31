@@ -16,3 +16,7 @@ themeforest.net/user/shapingrain
 instagram.com/shapingrain/
 facebook.com/shapingRain/
 twitter.com/ShapingRain
+
+___
+
+link to original: https://shapingrain.com/free-landing-page-template/
